@@ -1,0 +1,7 @@
+BASE_URL: https://www.trendyol.com/
+USERNAME: demotestuser@mailinator.com
+PASSWORD: Test_4578
+API: http://localhost:5000/api/books/
+BOOK_NAME: 'RELIABILITY OF LATE NIGHT DEPLOYMENT'
+AUTHOR_NAME: 'John Smith'
+MIMTYPE: 'application/json'
